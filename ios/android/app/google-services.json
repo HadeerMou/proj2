@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560759046170",
+    "project_id": "ecommerce-fcdee",
+    "storage_bucket": "ecommerce-fcdee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560759046170:android:074f7067d78f2eca5451a3",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560759046170-t4nia2urekq2kt7o8l0rcukc9ikk50f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXKyS4dbbfwUAiiTT9aBk1phgdfB3r6VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560759046170-t4nia2urekq2kt7o8l0rcukc9ikk50f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
